@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://drumdev.github.io/BS4tpl
+Sitemap: https://drumdev.github.io/foodbank/Sitemap.html
