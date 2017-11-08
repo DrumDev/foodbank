@@ -153,6 +153,16 @@ footer img{
     width:100%;
     max-width:170px;
 }
+.social img{
+    max-width:60px;
+    cursor: pointer;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+.social .col-4{
+    padding:0;
+}
 .footer-col{
     padding: 15px 20px;
     max-width:271px;
@@ -223,6 +233,18 @@ footer a:hover{
     background:gray;
     margin-bottom:50px;
     margin-top:30px;
+}
+.map h1{
+    font-size:1rem;
+}
+.map img{
+    max-width:50%;
+}
+.map p{
+    font-size:0.8rem;
+    padding-top:0!important;
+    max-width:50%;
+    float:right;
 }
 .donate-content .card h3{
     cursor: pointer;
