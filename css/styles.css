@@ -66,7 +66,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: black;
   background:#f3f3f5;
-  margin-bottom:880px;
+  margin-bottom:595px;
 }
 
 h1 {
@@ -154,7 +154,7 @@ footer{
     border-top: 4px solid rgba(0, 0, 0, 0.6);
     position:absolute;
     bottom:0;
-    height:860px;
+    height:575px;
     width:100%;
 }
 footer img{
@@ -162,10 +162,10 @@ footer img{
     max-width:170px;
 }
 .social img{
-    max-width:60px;
+    max-width:50px;
     cursor: pointer;
     margin: 0 auto;
-    display: block;
+    display: inline-block;
     text-align: center;
 }
 .social .col-4{
@@ -378,10 +378,10 @@ footer a:hover{
         max-width: none;
     }
     body {
-        margin-bottom:490px;
+        margin-bottom:405px;
     }
     footer{
-        height:470px;
+        height:385px;
     }
 
 }
@@ -402,6 +402,12 @@ footer a:hover{
     
     .footer-col{
         max-width:50%;
+    }
+    body {
+        margin-bottom:425px;
+    }
+    footer{
+        height:405px;
     }
 }
 @media screen and (min-width: 992px){
