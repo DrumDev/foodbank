@@ -66,7 +66,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: black;
   background:#f3f3f5;
-  margin-bottom:595px;
+  margin-bottom:805px;
 }
 
 h1 {
@@ -154,7 +154,7 @@ footer{
     border-top: 4px solid rgba(0, 0, 0, 0.6);
     position:absolute;
     bottom:0;
-    height:575px;
+    height:785px;
     width:100%;
 }
 footer img{
@@ -186,6 +186,9 @@ footer a:hover{
     color:whitesmoke;
 }
 .drumdev{
+    padding-top:5px;
+}
+.drumdev a{
     color:rgb(150, 150, 150);
 }
 
@@ -378,10 +381,13 @@ footer a:hover{
         max-width: none;
     }
     body {
-        margin-bottom:405px;
+        margin-bottom:480px;
     }
     footer{
-        height:385px;
+        height:460px;
+    }
+    .footer-col{
+        margin:0 auto;
     }
 
 }
@@ -399,15 +405,12 @@ footer a:hover{
     .nav-item{
         font-size:1.2rem;
     }
-    
-    .footer-col{
-        max-width:50%;
-    }
+
     body {
-        margin-bottom:425px;
+        margin-bottom:495px;
     }
     footer{
-        height:405px;
+        height:475px;
     }
 }
 @media screen and (min-width: 992px){
