@@ -56,12 +56,18 @@ html, body, div, section, ul, li, input, button, td, tr, table, span, button, ar
   border: 0px;
 }
 
+html{
+    position: relative;
+    min-height: 100%;
+}
 
 body {
   text-align: center;
   font-family: "Roboto", sans-serif;
   color: black;
   background:#f3f3f5;
+    margin-bottom:363px;
+    
 }
 
 h1 {
@@ -148,6 +154,10 @@ footer{
     background: rgb(103, 30, 119);
     padding: 30px 10px 10px 10px;
     border-top: 4px solid rgba(0, 0, 0, 0.6);
+    position:absolute;
+    bottom:0;
+    height:363px;
+    width:100%;
 }
 footer img{
     width:100%;
