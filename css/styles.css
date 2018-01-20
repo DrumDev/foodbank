@@ -111,7 +111,7 @@ p{
     margin-right:0;
 }
 .navbar-toggler{
-    margin-right:5px;
+    margin-right:10px;
     height: 45px;
     width: 45px;
 }
@@ -482,6 +482,13 @@ footer a:hover{
 
 
 
+
+
+@media screen and (max-width:359px){
+    .navbar-toggler{
+        margin-right:5px;
+    }
+}
 
 
 
