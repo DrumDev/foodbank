@@ -341,10 +341,10 @@ footer a:hover{
         max-width: none;
     }
     body {
-        margin-bottom:420px;
+        margin-bottom:455px;
     }
     footer{
-        height:400px;
+        height:435px;
     }
     .footer-col{
         margin:0 auto;
@@ -400,10 +400,13 @@ footer a:hover{
     }
 
     body {
-        margin-bottom:495px;
+        margin-bottom:415px;
     }
     footer{
-        height:475px;
+        height:395px;
+    }
+    footer p{
+        line-height: 1rem;
     }
 }
 @media screen and (min-width: 992px){
@@ -452,10 +455,10 @@ footer a:hover{
         column-gap: 11px;
     }
     body {
-        margin-bottom:235px;
+        margin-bottom:265px;
     }
     footer{
-        height:215px;
+        height:245px;
     }
 }
 @media screen and (min-width: 1200px){
