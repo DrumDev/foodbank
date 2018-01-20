@@ -102,7 +102,7 @@ p{
     background-color: #4c3b5b;
 }
 .nav-container .active a{
-    background:rgb(133, 60, 149);
+    font-weight:bold;
 }
 .navbar{
     padding:0;
@@ -125,11 +125,11 @@ p{
     color:white!important;
 }
 .nav-item {
-    background:rgb(103, 30, 119);
+    background:rgb(76, 59, 91);
     font-size:1.25rem;
 }
 .nav-item :hover {
-    background:rgb(133, 60, 149);
+    font-weight:bold;
 }
 .navbar-nav .dropdown-menu{
     background:whitesmoke;
@@ -297,10 +297,6 @@ footer a:hover{
 }
 .donate-content .text-left a:hover{
     color:black!important;
-}
-
-.timeline-Widget{
-    margin: 0 auto;
 }
 
 /* Bootstraps Media Queries */
