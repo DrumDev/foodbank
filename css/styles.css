@@ -102,7 +102,7 @@ p{
     background-color: #4c3b5b;
 }
 .nav-container .active a{
-    font-weight:bold;
+    background:rgb(15, 97, 111);
 }
 .navbar{
     padding:0;
@@ -129,14 +129,15 @@ p{
     font-size:1.25rem;
 }
 .nav-item :hover {
-    font-weight:bold;
+    background:rgb(15, 97, 111);
 }
 .navbar-nav .dropdown-menu{
     background:whitesmoke;
     text-align: center;
 }
 .navbar-nav .dropdown-menu a.dropdown-item:hover{
-    background:rgb(133, 60, 149)!important;
+    background:rgb(15, 97, 111)!important;
+    color:white!important;
 }
 .navbar-nav .dropdown-item{
     padding: .5rem 1.5rem;
