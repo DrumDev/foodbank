@@ -148,7 +148,7 @@ p{
 
 footer{
     color: whitesmoke;
-    background: rgb(103, 30, 119);
+    background: rgb(21, 13, 29);
     padding: 30px 10px 10px 10px;
     border-top: 4px solid rgba(0, 0, 0, 0.6);
     position:absolute;
@@ -453,7 +453,7 @@ footer a:hover{
         font-size:20px;
     }
     .content{
-        padding: 30px 35px;
+        padding: 60px 35px;
     }
     .limiter{
         max-width:1200px;
