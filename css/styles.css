@@ -86,7 +86,7 @@ h3 {
     padding-bottom: 20px;
 }
 h4 {
-    font-size: 1.35rem;
+    font-size: 1.25rem;
     padding-bottom:10px;
     color:whitesmoke;
 }
@@ -178,6 +178,7 @@ footer img{
 }
 footer p{
     font-size:90%;
+    line-height: 1rem;
 }
 footer a{
     color:whitesmoke;
@@ -422,6 +423,12 @@ footer a:hover{
     .footer-col{
         max-width:25%;
         padding: 15px 15px;
+    }
+    footer h4{
+        font-size:1.25rem;
+    }
+    footer p{
+        font-size:80%;
     }
     footer img {
         max-width: 122px;
