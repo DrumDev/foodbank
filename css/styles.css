@@ -299,6 +299,10 @@ footer a:hover{
     color:black!important;
 }
 
+.timeline-Widget{
+    margin: 0 auto;
+}
+
 /* Bootstraps Media Queries */
 
 @media screen and (min-width: 576px){
