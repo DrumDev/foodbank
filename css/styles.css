@@ -299,10 +299,6 @@ footer a:hover{
     color:black!important;
 }
 
-.twitter-timeline{
-    margin-top:30px;
-}
-
 /* Bootstraps Media Queries */
 
 @media screen and (min-width: 576px){
